@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  zunyi:
+    image: "registry.cn-hangzhou.aliyuncs.com/atomic-gu/dang-jian:latest"
+    build: .
+    ports:
+      - "4000:80"
