@@ -107,18 +107,18 @@ export default [
     timelineLabel:"中国迎来首个“烈士纪念日”"
   },
   {
-    date: d(1981, 11, 1),
-    location: l(116.71, 23.37),
+    date: d(2013, 10, 15),
+    location: l(116, 39),
     preview: <sec9.preview />,
     article: <sec9.article />,
-    timelineLabel:"汕头经济特区建立"
+    timelineLabel:"习近平在京主持召开文艺工作座谈会"
   },
   {
-    date: d(1984, 4, 28),
-    location: l(105, 23),
+    date: d(2013, 11, 19-21),
+    location: l(120.5, 30.5),
     preview: <sec10.preview/>,
     article: <sec10.article />,
-    timelineLabel:"老山战役"
+    timelineLabel:"首届世界互联网大会"
   },
   {
     date: d(1987, 10, 25),
