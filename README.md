@@ -3,7 +3,7 @@
 
 *School of Computer Science and Technology, Soochow University*
 
-### contributors
+### Contributors
 
 * *Hengkai Zhong*
 
