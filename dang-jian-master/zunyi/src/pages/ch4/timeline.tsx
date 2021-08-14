@@ -121,67 +121,67 @@ export default [
     timelineLabel:"首届世界互联网大会"
   },
   {
-    date: d(1987, 10, 25),
-    location: l(116.05, 40),
+    date: d(2014,12,7),
+    location: l(1112,37),
     preview: <sec11.preview/>,
     article: <sec11.article />,
-    timelineLabel:"中共十三大召开"
+    timelineLabel:"中巴地球资源卫星04星发射成功"
   },
   {
-    date: d(1988, 3, 14),
-    location: l(114, 10),
+    date: d(2104,12,13),
+    location: l(118,31),
     preview: <sec12.preview/>,
     article: <sec12.article />,
-    timelineLabel:"南沙海战"
+    timelineLabel:"中国共产党和国家主要领导人出席首个国家公祭日"
   },
   {
-    date: d(1988, 4, 13),
-    location: l(109, 19),
+    date: d(2015,9,9),
+    location: l(119,26),
     preview: <sec13.preview/>,
     article: <sec13.article />,
-    timelineLabel:"海南经济特区建立"
+    timelineLabel:"国务院正式批复同意设立福州新区"
   },
   {
-    date: d(1992, 1, 18),
-    location: l(114.08, 22.54),
+    date: d(2015,11,7),
+    location: l(103,1),
     preview: <sec14.preview/>,
     article: <sec14.article />,
-    timelineLabel:"邓小平南方谈话"
+    timelineLabel:"两岸领导人习近平、马英九在新加坡进行历史性会面"
   },
   {
-    date: d(1992, 10, 12),
-    location: l(116.06, 40),
+    date: d(2015,12,17),
+    location: l(98,39),
     preview: <sec15.preview/>,
     article: <sec15.article />,
-    timelineLabel:"中共十四大召开"
+    timelineLabel:"暗物质粒子探测卫星“悟空”发射任务圆满成功"
   },
   {
-    date: d(1993, 11, 11),
-    location: l(116.07, 40),
+    date: d(2015,9,3),
+    location: l(116.2,39.5),
     preview: <sec16.preview/>,
     article: <sec16.article />,
-    timelineLabel:"中共十四届三中全会"
+    timelineLabel:"纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会在北京天安门广场举行"
   },
   {
-    date: d(1997, 7, 1),
-    location: l(114.2, 22.3),
+    date: d(2016,12,14),
+    location: l(116.2,39.5),
     preview: <sec17.preview/>,
     article: <sec17.article />,
-    timelineLabel:"香港回归"
+    timelineLabel:"中央经济工作会议举行"
   },
   {
-    date: d(1997, 9, 12),
-    location: l(116.08, 40),
+    date: d(2015,9,25),
+    location: l(106.5,25.4),
     preview: <sec18.preview/>,
     article: <sec18.article />,
-    timelineLabel:"中共十五大召开"
+    timelineLabel:"全球最大单口径射电望远镜（FAST）在贵州落成启用"
   },
   {
-    date: d(1999, 12, 20),
-    location: l(113.5, 22.2),
+    date: d(2016,7,1),
+    location: l(116.2,39.5),
     preview: <sec19.preview/>,
     article: <sec19.article />,
-    timelineLabel:"澳门回归"
+    timelineLabel:"庆祝中国共产党成立95周年大会在京举行"
   },
   {
     date: d(2000, 10, 9),
