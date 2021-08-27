@@ -1,6 +1,6 @@
 import * as Antd from "antd";
 import sec3 from "./sec3.png";
-import styles from "@/pages/ch1/textarea.css";
+import styles from "../textarea.css";
 
 // 文章组件
 export default () => (

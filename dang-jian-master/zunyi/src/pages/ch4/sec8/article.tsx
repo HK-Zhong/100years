@@ -1,6 +1,6 @@
 import * as Antd from "antd";
 import sec8 from "./sec8.png";
-import styles from "@/pages/ch1/textarea.css";
+import styles from "../textarea.css";
 // 文章组件
 export default () => (
   <Antd.Typography className={styles.textarea}>

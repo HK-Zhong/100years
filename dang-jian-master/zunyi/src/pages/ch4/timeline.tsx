@@ -184,53 +184,53 @@ export default [
     timelineLabel:"庆祝中国共产党成立95周年大会在京举行"
   },
   {
-    date: d(2000, 10, 9),
+    date: d(2017, 6, 26),
     location: l(116.09, 40),
     preview: <sec20.preview/>,
     article: <sec20.article />,
-    timelineLabel:"中共十五届五中全会"
+    timelineLabel:"中国高速动车组技术实现全面自主"
   },
   {
-    date: d(2001, 7, 13),
-    location: l(37, 55),
+    date: d(2017, 7, 30),
+    location: l(111, 43),
     preview: <sec21.preview/>,
     article: <sec21.article />,
-    timelineLabel:"申奥成功"
+    timelineLabel:"中国人民解放军建军90周年阅兵"
   },
   {
-    date: d(2001, 11, 10),
-    location: l(52, 25),
+    date: d(2017, 10, 18-24),
+    location: l(116, 40),
     preview: <sec22.preview/>,
     article: <sec22.article />,
-    timelineLabel:"中国加入世界贸易组织"
+    timelineLabel:"中国共产党第十九次全国代表大会"
   },
   {
-    date: d(2002, 7, 4),
+    date: d(2018, 2, 26-28),
     location: l(116.10, 40),
     preview: <sec23.preview/>,
     article: <sec23.article />,
-    timelineLabel:"西气东输工程全线开工"
+    timelineLabel:"中国共产党第十九届三中全会"
   },
   {
-    date: d(2002, 11, 8),
-    location: l(116.11, 40),
+    date: d(2018, 4, 12),
+    location: l(106, 13),
     preview: <sec24.preview/>,
     article: <sec24.article />,
-    timelineLabel:"中共十六大召开"
+    timelineLabel:"中央军委在南海海域举行海上阅兵"
   },
   {
-    date: d(2002, 12, 27),
-    location: l(116.12, 40),
+    date: d(2018, 10, 23),
+    location: l(114, 23),
     preview: <sec25.preview/>,
     article: <sec25.article />,
-    timelineLabel:"南水北调工程正式开工"
+    timelineLabel:"港珠澳大桥开通仪式在广东珠海举行"
   },
   {
-    date: d(2003, 10, 15),
-    location: l(98.6, 39.65),
+    date: d(2019, 4, 30),
+    location: l(116, 40),
     preview: <sec26.preview/>,
     article: <sec26.article />,
-    timelineLabel:"中国首次载人航天飞船飞行成功"
+    timelineLabel:"纪念五四运动100周年大会召开"
   },
   {
     date: d(2005, 3, 14),
