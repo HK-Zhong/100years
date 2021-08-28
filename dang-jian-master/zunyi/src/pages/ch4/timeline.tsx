@@ -50,28 +50,28 @@ import sec33 from "./sec33";
 
 export default [
   {
-    date: d(2012, 11, 8-14),
+    date: d(2012,11, 8),
     location: l(116, 40),
     preview: <sec1.preview />,
     article: <sec1.article />,
     timelineLabel: "中国共产党第十八次全国代表大会",
   },
   {
-    date: d(2012, 11, 29),
+    date: d(2012,11, 29),
     location: l(116, 40),
     preview: <sec2.preview />,
     article: <sec2.article />,
     timelineLabel: "习近平总书记首提“中国梦”"
   },
   {
-    date: d(2012, 6, 16),
+    date: d(2012, 6,16),
     location: l(98.5, 39),
     preview: <sec3.preview />,
     article: <sec3.article />,
     timelineLabel: "神舟九号载人飞船成功发射"
   },
   {
-    date: d(2013, 1, 17),
+    date: d(2013,1,17),
     location: l(116.02, 40),
     preview: <sec4.preview />,
     article: <sec4.article />,
