@@ -46,8 +46,7 @@ import sec30 from "./sec30";
 import sec31 from "./sec31";
 import sec32 from "./sec32";
 import sec33 from "./sec33";
-import sec34 from "./sec34";
-import sec35 from "./sec35";
+
 
 export default [
   {
@@ -114,7 +113,7 @@ export default [
     timelineLabel:"习近平在京主持召开文艺工作座谈会"
   },
   {
-    date: d(2013, 11, 19-21),
+    date: d(2013, 11, 19),
     location: l(120.5, 30.5),
     preview: <sec10.preview/>,
     article: <sec10.article />,
@@ -198,14 +197,14 @@ export default [
     timelineLabel:"中国人民解放军建军90周年阅兵"
   },
   {
-    date: d(2017, 10, 18-24),
+    date: d(2017, 10, 18),
     location: l(116, 40),
     preview: <sec22.preview/>,
     article: <sec22.article />,
     timelineLabel:"中国共产党第十九次全国代表大会"
   },
   {
-    date: d(2018, 2, 26-28),
+    date: d(2018, 2, 26),
     location: l(116.10, 40),
     preview: <sec23.preview/>,
     article: <sec23.article />,
@@ -233,66 +232,54 @@ export default [
     timelineLabel:"纪念五四运动100周年大会召开"
   },
   {
-    date: d(2005, 3, 14),
+    date: d(2019, 10, 28),
     location: l(116.13, 40),
     preview: <sec27.preview/>,
     article: <sec27.article />,
-    timelineLabel:"《反分裂国家法》通过"
+    timelineLabel:"中共十九届四中全会召开"
   },
   {
-    date: d(2005, 4, 7),
-    location: l(116.14, 40),
+    date: d(2019, 12, 17),
+    location: l(109, 18),
     preview: <sec28.preview/>,
     article: <sec28.article />,
-    timelineLabel:"连战宋楚瑜郁慕明先后访问大陆"
+    timelineLabel:"中国第一艘国产航空母舰山东舰交付海军，习近平出席交接入列仪式并登舰视察"
   },
   {
-    date: d(2006, 7, 1),
-    location: l(91, 40),
+    date: d(2020, 1, 7),
+    location: l(116, 40),
     preview: <sec29.preview/>,
     article: <sec29.article />,
-    timelineLabel:"青藏铁路顺利通车"
+    timelineLabel:"习近平在主持召开中央政治局常委会会议时，对做好2019年12月27日以来湖北武汉监测发现的不明原因肺炎疫情防控工作提出要求"
   },
   {
-    date: d(2007, 10, 15),
+    date: d(2020,10 ,23 ),
     location: l(116.15, 40),
     preview: <sec30.preview/>,
     article: <sec30.article />,
-    timelineLabel:"中共十七大召开"
+    timelineLabel:"中国人民志愿军抗美援朝出国作战70周年大会召开"
   },
   {
-    date: d(2007, 10, 24),
-    location: l(102, 28),
+    date: d(2021,2 , 25),
+    location: l(116.15, 40),
     preview: <sec31.preview/>,
     article: <sec31.article />,
-    timelineLabel:"嫦娥一号在西昌卫星发射中心发射升空"
+    timelineLabel:"全国脱贫攻坚总结表彰大会召开"
   },
   {
-    date: d(2008, 8, 8),
-    location: l(116.16, 40),
+    date: d(2021, 6, 17),
+    location: l(101, 40),
     preview: <sec32.preview/>,
     article: <sec32.article />,
-    timelineLabel:"成功举办2008年北京奥运会"
+    timelineLabel:"神舟十二号载人飞船发射升空"
   },
   {
-    date: d(2010, 12, 31),
+    date: d(2020, 6,18 ),
     location: l(116.17, 40),
     preview: <sec33.preview/>,
     article: <sec33.article />,
-    timelineLabel:"成为世界第二大经济体"
+    timelineLabel:"中国共产党历史展览馆开馆"
   },
-  {
-    date: d(2012, 9, 25),
-    location: l(120.37, 36.05),
-    preview: <sec34.preview/>,
-    article: <sec34.article />,
-    timelineLabel:"中国首艘航母“辽宁舰”交付使用"
-  },
-  {
-    date: d(2012, 11, 8),
-    location: l(116.18, 40),
-    preview: <sec35.preview/>,
-    article: <sec35.article />,
-    timelineLabel:"中共十八大召开"
-  },
+  
+  
 ] as Event[];
