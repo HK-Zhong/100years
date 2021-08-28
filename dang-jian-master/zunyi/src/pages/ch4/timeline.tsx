@@ -121,13 +121,13 @@ export default [
   },
   {
     date: d(2014,12,7),
-    location: l(1112,37),
+    location: l(112,37),
     preview: <sec11.preview/>,
     article: <sec11.article />,
     timelineLabel:"中巴地球资源卫星04星发射成功"
   },
   {
-    date: d(2104,12,13),
+    date: d(2014,12,13),
     location: l(118,31),
     preview: <sec12.preview/>,
     article: <sec12.article />,
