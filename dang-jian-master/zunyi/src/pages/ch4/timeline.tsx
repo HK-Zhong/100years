@@ -89,14 +89,14 @@ export default [
     location: l(116, 39),
     preview: <sec6.preview />,
     article: <sec6.article />,
-    timelineLabel:"中共中央总书记习近平会见中国国民党荣誉主席吴伯雄"
+    timelineLabel:"习近平会见中国国民党荣誉主席吴伯雄"
   },
   {
     date: d(2014, 3, 15),
     location: l(116, 40),
     preview: <sec7.preview />,
     article: <sec7.article />,
-    timelineLabel:"中央军委深化国防和军队改革领导小组第一次全体会议"
+    timelineLabel:"中央军委领导小组第一次全体会议"
   },
   {
     date: d(2014, 9, 30),
@@ -131,7 +131,7 @@ export default [
     location: l(118,31),
     preview: <sec12.preview/>,
     article: <sec12.article />,
-    timelineLabel:"中国共产党和国家主要领导人出席首个国家公祭日"
+    timelineLabel:"首个国家公祭日"
   },
   {
     date: d(2015,9,9),
@@ -145,7 +145,7 @@ export default [
     location: l(103,1),
     preview: <sec14.preview/>,
     article: <sec14.article />,
-    timelineLabel:"两岸领导人习近平、马英九在新加坡进行历史性会面"
+    timelineLabel:"习近平、马英九进行历史性会面"
   },
   {
     date: d(2015,12,17),
@@ -159,7 +159,7 @@ export default [
     location: l(116.2,39.5),
     preview: <sec16.preview/>,
     article: <sec16.article />,
-    timelineLabel:"纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会在北京天安门广场举行"
+    timelineLabel:"中国人民抗日战争暨世界反法西斯战争胜利70周年大会"
   },
   {
     date: d(2016,12,14),
@@ -173,7 +173,7 @@ export default [
     location: l(106.5,25.4),
     preview: <sec18.preview/>,
     article: <sec18.article />,
-    timelineLabel:"全球最大单口径射电望远镜（FAST）在贵州落成启用"
+    timelineLabel:"全球最大单口径射电望远镜在贵州落成启用"
   },
   {
     date: d(2016,7,1),
@@ -243,21 +243,21 @@ export default [
     location: l(109, 18),
     preview: <sec28.preview/>,
     article: <sec28.article />,
-    timelineLabel:"中国第一艘国产航空母舰山东舰交付海军，习近平出席交接入列仪式并登舰视察"
+    timelineLabel:"中国第一艘国产航母山东舰交付海军"
   },
   {
     date: d(2020, 1, 7),
     location: l(116, 40),
     preview: <sec29.preview/>,
     article: <sec29.article />,
-    timelineLabel:"习近平在主持召开中央政治局常委会会议时，对做好2019年12月27日以来湖北武汉监测发现的不明原因肺炎疫情防控工作提出要求"
+    timelineLabel:"习近平对做好不明原因肺炎疫情防控工作提出要求"
   },
   {
     date: d(2020,10 ,23 ),
     location: l(116.15, 40),
     preview: <sec30.preview/>,
     article: <sec30.article />,
-    timelineLabel:"中国人民志愿军抗美援朝出国作战70周年大会召开"
+    timelineLabel:"抗美援朝70周年大会召开"
   },
   {
     date: d(2021,2 , 25),
@@ -280,6 +280,6 @@ export default [
     article: <sec33.article />,
     timelineLabel:"中国共产党历史展览馆开馆"
   },
-  
-  
+
+
 ] as Event[];

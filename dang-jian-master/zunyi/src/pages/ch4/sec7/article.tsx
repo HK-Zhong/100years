@@ -4,7 +4,7 @@ import styles from "../textarea.css";
 // 文章组件
 export default () => (
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>中央军委深化国防和军队改革领导小组第一次全体会议</Antd.Typography.Title>
+    <Antd.Typography.Title>中央军委领导小组第一次全体会议</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
         <p>   中央军委深化国防和军队改革领导小组第一次全体会议于2014年3月15日在北京召开。

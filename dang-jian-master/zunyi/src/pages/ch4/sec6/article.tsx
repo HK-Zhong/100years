@@ -5,7 +5,7 @@ import styles from "../textarea.css";
 // 文章组件
 export default () => (
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>中共中央总书记习近平会见中国国民党荣誉主席吴伯雄</Antd.Typography.Title>
+    <Antd.Typography.Title>习近平会见中国国民党荣誉主席吴伯雄</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
         <p>   中共中央总书记习近平6月13日下午在人民大会堂会见了中国国民党荣誉主席吴伯雄和他率领的中国国民党访问团全体成员。</p>

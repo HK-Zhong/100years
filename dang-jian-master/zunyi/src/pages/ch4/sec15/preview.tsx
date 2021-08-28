@@ -8,7 +8,7 @@ export default () => (
         <p>12月17日8时12分，中国在酒泉卫星发射中心用长征二号丁运载火箭成功将暗物质粒子探测卫星“悟空”发射升空，卫星顺利进入预定转移轨道。此次发射任务圆满成功，标志着中国空间科学研究迈出重要一步。</p>
       </div>
       <div style={{float:"left"}}>
-        <img src={sec1} style={{width:"100px" ,height:"60px"}}/>
+        <img src={sec15} style={{width:"100px" ,height:"60px"}}/>
       </div>
     </Antd.Typography.Text>
   </Antd.Typography>
