@@ -8,7 +8,7 @@ export default () => (
         <p>航空母舰的成功建造彰显了我国的工业实力，承载着国人几十年的梦想终成现实。</p>
       </div>
       <div style={{float:"left"}}>
-        <img src={sec26} style={{width:"100px" ,height:"60px"}}/>
+        <img src={sec28} style={{width:"100px" ,height:"60px"}}/>
       </div>
     </Antd.Typography.Text>
   </Antd.Typography>
