@@ -77,11 +77,11 @@ export default [
     timelineLabel:"《关于为刘少奇同志平反的决议》通过"
   },
   {
-    date: d(2013, 4, 20),
-    location: l(103, 30),
+    date: d(1980, 8, 18),
+    location: l(116, 40),
     preview: <sec5.preview />,
     article: <sec5.article />,
-    timelineLabel:"四川雅安发生7.0级地震"
+    timelineLabel:"中共中央政治局在北京召开扩大会议"
   },
   {
     date: d(2013, 6, 13),
