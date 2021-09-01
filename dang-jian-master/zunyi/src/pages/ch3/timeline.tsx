@@ -84,193 +84,193 @@ export default [
     timelineLabel:"中共中央政治局在北京召开扩大会议"
   },
   {
-    date: d(2013, 6, 13),
-    location: l(116, 39),
+    date: d(1980, 8, 25),
+    location: l(115, 22),
     preview: <sec6.preview />,
     article: <sec6.article />,
-    timelineLabel:"习近平会见中国国民党荣誉主席吴伯雄"
+    timelineLabel:"深圳、珠海、厦门经济特区正式批准建立"
   },
   {
-    date: d(2014, 3, 15),
-    location: l(116, 40),
+    date: d(1981, 4, 1),
+    location: l(116, 23),
     preview: <sec7.preview />,
     article: <sec7.article />,
-    timelineLabel:"中央军委领导小组第一次全体会议"
+    timelineLabel:"汕头经济特区批准成立"
   },
   {
-    date: d(2014, 9, 30),
+    date: d(1981, 9, 30),
     location: l(116.04, 40),
     preview: <sec8.preview />,
     article: <sec8.article />,
-    timelineLabel:"中国迎来首个“烈士纪念日”"
+    timelineLabel:"叶剑英就关于台湾回归问题提出九条方针政策"
   },
   {
-    date: d(2013, 10, 15),
+    date: d(1982, 9, 1),
     location: l(116, 39),
     preview: <sec9.preview />,
     article: <sec9.article />,
-    timelineLabel:"习近平在京主持召开文艺工作座谈会"
+    timelineLabel:"中共第十二次全国代表大会"
   },
   {
-    date: d(2013, 11, 19),
-    location: l(120.5, 30.5),
+    date: d(1983, 11, 3),
+    location: l(116, 40),
     preview: <sec10.preview/>,
     article: <sec10.article />,
-    timelineLabel:"首届世界互联网大会"
+    timelineLabel:"中国民主建国会第四次全国代表大会等会议召开"
   },
   {
-    date: d(2014,12,7),
-    location: l(112,37),
+    date: d(1983,3,13),
+    location: l(116,40),
     preview: <sec11.preview/>,
     article: <sec11.article />,
-    timelineLabel:"中巴地球资源卫星04星发射成功"
+    timelineLabel:"纪念马克思逝世一百周年"
   },
   {
-    date: d(2014,12,13),
-    location: l(118,31),
+    date: d(1984,3,26),
+    location: l(116,40),
     preview: <sec12.preview/>,
     article: <sec12.article />,
-    timelineLabel:"首个国家公祭日"
+    timelineLabel:"沿海部分城市座谈会在北京召开"
   },
   {
-    date: d(2015,9,9),
-    location: l(119,26),
+    date: d(1984,4,16),
+    location: l(119,31),
     preview: <sec13.preview/>,
-    article: <sec13.article />,
-    timelineLabel:"国务院正式批复同意设立福州新区"
+    article: <sec13.article/>,
+    timelineLabel:"城市经济体制改革座谈会在常州市召开"
   },
   {
-    date: d(2015,11,7),
-    location: l(103,1),
+    date: d(1984,9,26),
+    location: l(116,40),
     preview: <sec14.preview/>,
     article: <sec14.article />,
-    timelineLabel:"习近平、马英九进行历史性会面"
+    timelineLabel:"中英两国政府关于香港问题的联合声明"
   },
   {
-    date: d(2015,12,17),
-    location: l(98,39),
+    date: d(1987,10,25),
+    location: l(116,40),
     preview: <sec15.preview/>,
     article: <sec15.article />,
-    timelineLabel:"暗物质粒子探测卫星“悟空”发射任务圆满成功"
+    timelineLabel:"中共第十三次全国代表大会"
   },
   {
-    date: d(2015,9,3),
+    date: d(1987,3,26),
     location: l(116.2,39.5),
     preview: <sec16.preview/>,
     article: <sec16.article />,
-    timelineLabel:"中国人民抗日战争暨世界反法西斯战争胜利70周年大会"
+    timelineLabel:"中国和葡萄牙两国政府关于澳门问题的联合声明在北京草签"
   },
   {
-    date: d(2016,12,14),
-    location: l(116.2,39.5),
+    date: d(1988,4,13),
+    location: l(110,19),
     preview: <sec17.preview/>,
     article: <sec17.article />,
-    timelineLabel:"中央经济工作会议举行"
+    timelineLabel:"海南省和海南经济特区同时成立"
   },
   {
-    date: d(2015,9,25),
-    location: l(106.5,25.4),
+    date: d(1989,11,6),
+    location: l(116,40),
     preview: <sec18.preview/>,
     article: <sec18.article />,
-    timelineLabel:"全球最大单口径射电望远镜在贵州落成启用"
+    timelineLabel:"中共十三届五中全会在北京召开"
   },
   {
-    date: d(2016,7,1),
-    location: l(116.2,39.5),
+    date: d(1990,11,26),
+    location: l(121,31),
     preview: <sec19.preview/>,
     article: <sec19.article />,
-    timelineLabel:"庆祝中国共产党成立95周年大会在京举行"
+    timelineLabel:"上海证券交易所成立"
   },
   {
-    date: d(2017, 6, 26),
-    location: l(116.09, 40),
+    date: d(1991, 1, 28),
+    location: l(121, 31),
     preview: <sec20.preview/>,
     article: <sec20.article />,
-    timelineLabel:"中国高速动车组技术实现全面自主"
+    timelineLabel:"邓小平视察上海"
   },
   {
-    date: d(2017, 7, 30),
-    location: l(111, 43),
+    date: d(1991, 12, 15),
+    location: l(121, 30),
     preview: <sec21.preview/>,
     article: <sec21.article />,
-    timelineLabel:"中国人民解放军建军90周年阅兵"
+    timelineLabel:"秦山核电站并网发电"
   },
   {
-    date: d(2017, 10, 18),
-    location: l(116, 40),
+    date: d(1992, 1, 18),
+    location: l(118, 25),
     preview: <sec22.preview/>,
     article: <sec22.article />,
-    timelineLabel:"中国共产党第十九次全国代表大会"
+    timelineLabel:"邓小平发表著名的“南方谈话”"
   },
   {
-    date: d(2018, 2, 26),
+    date: d(1992, 10, 12),
     location: l(116.10, 40),
     preview: <sec23.preview/>,
     article: <sec23.article />,
-    timelineLabel:"中国共产党第十九届三中全会"
+    timelineLabel:"中共第十四次全国代表大会"
   },
   {
-    date: d(2018, 4, 12),
-    location: l(106, 13),
+    date: d(1993, 4, 27),
+    location: l(104, 2),
     preview: <sec24.preview/>,
     article: <sec24.article />,
-    timelineLabel:"中央军委在南海海域举行海上阅兵"
+    timelineLabel:"汪道涵和辜振甫在新加坡举行会谈"
   },
   {
-    date: d(2018, 10, 23),
-    location: l(114, 23),
+    date: d(1994, 2, 28),
+    location: l(116, 40),
     preview: <sec25.preview/>,
     article: <sec25.article />,
-    timelineLabel:"港珠澳大桥开通仪式在广东珠海举行"
+    timelineLabel:"全国扶贫开发工作会议在北京召开"
   },
   {
-    date: d(2019, 4, 30),
+    date: d(1995, 5, 6),
     location: l(116, 40),
     preview: <sec26.preview/>,
     article: <sec26.article />,
-    timelineLabel:"纪念五四运动100周年大会召开"
+    timelineLabel:"提出科教兴国的战略"
   },
   {
-    date: d(2019, 10, 28),
-    location: l(116.13, 40),
+    date: d(1996, 4, 26),
+    location: l(121, 31),
     preview: <sec27.preview/>,
     article: <sec27.article />,
-    timelineLabel:"中共十九届四中全会召开"
+    timelineLabel:"与周边国家在上海共同签署关于在边境地区加强军事领域信任的协定"
   },
   {
-    date: d(2019, 12, 17),
-    location: l(109, 18),
+    date: d(1996, 7, 18),
+    location: l(116, 40),
     preview: <sec28.preview/>,
     article: <sec28.article />,
-    timelineLabel:"中国第一艘国产航母山东舰交付海军"
+    timelineLabel:"中国政府对日本右翼分子表示“严重关切”"
   },
   {
-    date: d(2020, 1, 7),
+    date: d(1996, 9, 26),
     location: l(116, 40),
     preview: <sec29.preview/>,
     article: <sec29.article />,
-    timelineLabel:"习近平对做好不明原因肺炎疫情防控工作提出要求"
+    timelineLabel:"江泽民视察人民日报社并发表重要讲话"
   },
   {
-    date: d(2020,10 ,23 ),
-    location: l(116.15, 40),
+    date: d(1997,7 ,1 ),
+    location: l(114, 22),
     preview: <sec30.preview/>,
     article: <sec30.article />,
-    timelineLabel:"抗美援朝70周年大会召开"
+    timelineLabel:"香港回归"
   },
   {
-    date: d(2021,2 , 25),
+    date: d(1997,9 , 12),
     location: l(116.15, 40),
     preview: <sec31.preview/>,
     article: <sec31.article />,
-    timelineLabel:"全国脱贫攻坚总结表彰大会召开"
+    timelineLabel:"中共第十五次全国代表大会"
   },
   {
-    date: d(2021, 6, 17),
-    location: l(101, 40),
+    date: d(1998, 7, 1),
+    location: l(125, 44),
     preview: <sec32.preview/>,
     article: <sec32.article />,
-    timelineLabel:"神舟十二号载人飞船发射升空"
+    timelineLabel:"抗洪救灾"
   },
 
 

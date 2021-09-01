@@ -7,12 +7,10 @@ import styles from "../textarea.css";
 export default () => (
 
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>中国人民志愿军抗美援朝出国作战70周年大会召开</Antd.Typography.Title>
+    <Antd.Typography.Title>香港回归</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
-      <p>
-      习近平在纪念中国人民志愿军抗美援朝出国作战70周年大会上讲话指出，在波澜壮阔的抗美援朝战争中，英雄的中国人民志愿军锻造了伟大抗美援朝精神。我们要铭记抗美援朝战争的艰辛历程和伟大胜利，敢于斗争、善于斗争，知难而进、坚韧向前，把新时代中国特色社会主义伟大事业不断推向前进。
-      </p>
+      <p>   ６月３０日午夜－７月１日凌晨　中英两国政府香港政权交接的仪式在香港隆重举行。中华人民共和国主席江泽民庄严宣告：中国对香港恢复行使主权；中华人民共和国香港特别行政区正式成立。１时３０分，中华人民共和国香港特别行政区成立暨特区政府宣誓就职仪式在香港会议展览中心新翼七楼隆重举行。中国人民解放军驻港部队于7月1日零时开始履行湘钢防务职责。</p>
         {/*<img src={sec30} alt=""/>*/}
         <img className={styles.img} src={sec30} alt=""/>
      </div>

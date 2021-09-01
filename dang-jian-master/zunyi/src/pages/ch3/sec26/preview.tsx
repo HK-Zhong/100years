@@ -2,11 +2,10 @@ import * as Antd from "antd";
 import sec26 from "./sec26.png"
 export default () => (
   <Antd.Typography>
-    <Antd.Typography.Title level={2}>纪念五四运动100周年大会召开</Antd.Typography.Title>
+    <Antd.Typography.Title level={2}>提出科教兴国的战略</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div style={{float:"right"}}>
-        <p>纪念五四运动100周年大会30日上午在北京人民大会堂隆重举行。中共中央总书
-          记、国家主席、中央军委主席习近平在会上发表重要讲话。</p>
+        <p>   1995年5月，江泽民同志在全国科技大会上的讲话中提出了实施科教兴国的战略，确立科技和教育是兴国的手段和基础的方针。5月26日至30日，中共中央、国务院在北京召开全国科学技术大会。</p>
       </div>
       <div style={{float:"left"}}>
         <img src={sec26} style={{width:"100px" ,height:"60px"}}/>
