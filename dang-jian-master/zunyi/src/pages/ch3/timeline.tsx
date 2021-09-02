@@ -45,6 +45,37 @@ import sec29 from "./sec29";
 import sec30 from "./sec30";
 import sec31 from "./sec31";
 import sec32 from "./sec32";
+import sec33 from "./sec33";
+import sec34 from "./sec34";
+import sec35 from "./sec35";
+import sec36 from "./sec36";
+import sec37 from "./sec37";
+import sec38 from "./sec38";
+import sec39 from "./sec39";
+import sec40 from "./sec40";
+import sec41 from "./sec41";
+import sec42 from "./sec42";
+import sec43 from "./sec43";
+import sec44 from "./sec44";
+import sec45 from "./sec45";
+import sec46 from "./sec46";
+import sec47 from "./sec47";
+import sec48 from "./sec48";
+import sec49 from "./sec49";
+import sec50 from "./sec50";
+import sec51 from "./sec51";
+import sec52 from "./sec52";
+import sec53 from "./sec53";
+import sec54 from "./sec54";
+import sec55 from "./sec55";
+import sec56 from "./sec56";
+import sec57 from "./sec57";
+import sec58 from "./sec58";
+import sec59 from "./sec59";
+import sec60 from "./sec60";
+import sec61 from "./sec61";
+import sec62 from "./sec62";
+
 
 
 export default [
@@ -271,6 +302,211 @@ export default [
     preview: <sec32.preview/>,
     article: <sec32.article />,
     timelineLabel:"抗洪救灾"
+  },
+
+  {
+    date: d(1999,5,8),
+    location: l(20.5,44.5),
+    preview: <sec33.preview/>,
+    article: <sec33.article />,
+    timelineLabel:"北约袭击中国驻南斯拉夫大使馆"
+  },
+  {
+    date: d(1999,10,1),
+    location: l(116.2,39.6),
+    preview: <sec34.preview/>,
+    article: <sec34.article />,
+    timelineLabel:"庆祝中华人民共和国成立50周年大会"
+  },
+
+  {
+    date: d(1999,11,20),
+    location: l(98.2,39.5),
+    preview: <sec35.preview/>,
+    article: <sec35.article />,
+    timelineLabel:"第一艘载人航天试验飞船"
+  },
+
+  {
+    date: d(1999,12,20),
+    location: l(113.3,22.2),
+    preview: <sec36.preview/>,
+    article: <sec36.article />,
+    timelineLabel:"澳门回归"
+  },
+  {
+    date: d(2000,1,24),
+    location: l(116.2,39.6),
+    preview: <sec37.preview/>,
+    article: <sec37.article />,
+    timelineLabel:"西部地区开发会议在京举行"
+  },
+  {
+    date: d(2000,2,20),
+    location: l(109.4,20.2),
+    preview: <sec38.preview/>,
+    article: <sec38.article />,
+    timelineLabel:"江泽民提出“三个代表”的重要思想"
+  },
+  {
+    date: d(2001,6,15),
+    location: l(121.4,31.4),
+    preview: <sec39.preview/>,
+    article: <sec39.article />,
+    timelineLabel:"“上海合作组织”成员国元首会议"
+  },
+  {
+    date: d(2001,7,1),
+    location: l(116.2,39.6),
+    preview: <sec40.preview/>,
+    article: <sec40.article />,
+    timelineLabel:"庆祝中国共产党成立八十周年大会"
+  },
+  {
+    date: d(2001,7,13),
+    location: l(116.3,39.6),
+    preview: <sec41.preview/>,
+    article: <sec41.article />,
+    timelineLabel:"北京申办2008年奥运会成功"
+  },
+  {
+    date: d(2001,7,19),
+    location: l(91.2,29.5),
+    preview: <sec42.preview/>,
+    article: <sec42.article />,
+    timelineLabel:"庆祝西藏和平解放50周年大会"
+  },
+  {
+    date: d(2001,10,21),
+    location: l(121.3,31.3),
+    preview: <sec43.preview/>,
+    article: <sec43.article />,
+    timelineLabel:"亚太经合组织第九次领导人非正式会议"
+  },
+  {
+    date: d(2001,11,10),
+    location: l(51.4,25.3),
+    preview: <sec44.preview/>,
+    article: <sec44.article />,
+    timelineLabel:"中国正式成为WTO成员"
+  },
+  {
+    date: d(2002,11,8),
+    location: l(116.2,39.6),
+    preview: <sec45.preview/>,
+    article: <sec45.article />,
+    timelineLabel:"中国共产党第十六次全国代表大会开幕"
+  },
+  {
+    date: d(2003,10,15),
+    location: l(98.4,39.5),
+    preview: <sec46.preview/>,
+    article: <sec46.article />,
+    timelineLabel:"中国首次载人航天飞船飞行成功"
+  },
+  {
+    date: d(2003,4,14),
+    location: l(109.4,20.2),
+    preview: <sec47.preview/>,
+    article: <sec47.article />,
+    timelineLabel:"非典事件"
+  },
+  {
+    date: d(2005,4,29),
+    location: l(116.2,39.5),
+    preview: <sec48.preview/>,
+    article: <sec48.article />,
+    timelineLabel:"连战宋楚瑜郁慕明先后访问大陆"
+  },
+  {
+    date: d(2006,1,12),
+    location: l(116.2,39.6),
+    preview: <sec49.preview/>,
+    article: <sec49.article />,
+    timelineLabel:"中国政府首次正式发表《中国对非洲政策文件》"
+  },
+  {
+    date: d(2006,7,1),
+    location: l(91.2,29.5),
+    preview: <sec50.preview/>,
+    article: <sec50.article />,
+    timelineLabel:"青藏铁路全线建成通车"
+  },
+  {
+    date: d(2007,10,2),
+    location: l(121.3,31.2),
+    preview: <sec51.preview/>,
+    article: <sec51.article />,
+    timelineLabel:"世界夏季特殊奥运会隆重举行"
+  },
+  {
+    date: d(2007,10,15),
+    location: l(116.2,39.6),
+    preview: <sec52.preview/>,
+    article: <sec52.article />,
+    timelineLabel:"中国共产党第十七次全国代表大会隆重开幕"
+  },
+  {
+    date: d(2007,10,24),
+    location: l(102.6,27.6),
+    preview: <sec53.preview/>,
+    article: <sec53.article />,
+    timelineLabel:"嫦娥一号发射升空"
+  },
+  {
+    date: d(2008,5,12),
+    location: l(103.5,31.2),
+    preview: <sec54.preview/>,
+    article: <sec54.article />,
+    timelineLabel:"四川汶川发生里氏８级特大地震"
+  },  {
+    date: d(2008,8,8),
+    location: l(116.3,39.6),
+    preview: <sec55.preview/>,
+    article: <sec55.article />,
+    timelineLabel:"北京成功举办第二十九届奥运会"
+  },  {
+    date: d(2008,9,25),
+    location: l(98.4,39.4),
+    preview: <sec56.preview/>,
+    article: <sec56.article />,
+    timelineLabel:"神舟七号飞船发射"
+  },  {
+    date: d(2008,10,27),
+    location: l(116.3,39.6),
+    preview: <sec57.preview/>,
+    article: <sec57.article />,
+    timelineLabel:"国家统计局发布改革开放30年经济社会发展成就系列报告"
+  },  {
+    date: d(2008,12,15),
+    location: l(116.2,39.6),
+    preview: <sec58.preview/>,
+    article: <sec58.article />,
+    timelineLabel:"两岸“三通”迈开历史性步伐"
+  },  {
+    date: d(2010,4,14),
+    location: l(96.8,33.4),
+    preview: <sec59.preview/>,
+    article: <sec59.article />,
+    timelineLabel:"青海玉树发生里氏7.1级地震"
+  },  {
+    date: d(2010,5,1),
+    location: l(121.4,31.2),
+    preview: <sec60.preview/>,
+    article: <sec60.article />,
+    timelineLabel:"2010年上海世界博览会举行"
+  },  {
+    date: d(2010,12,1),
+    location: l(116.2,39.5),
+    preview: <sec61.preview/>,
+    article: <sec61.article />,
+    timelineLabel:""
+  },  {
+    date: d(2011,11,3),
+    location: l(98.5,39.5),
+    preview: <sec62.preview/>,
+    article: <sec62.article />,
+    timelineLabel:"神舟八号与天宫一号对接"
   },
 
 
