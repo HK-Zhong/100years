@@ -1,25 +1,20 @@
 import * as Antd from "antd";
 import sec16 from "./sec16.png";
-import styles from "@/pages/ch1/textarea.css";
+import styles from "../textarea.css";
+
+// @ts-ignore
 // 文章组件
 export default () => (
+
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>中共十四届三中全会</Antd.Typography.Title>
+    <Antd.Typography.Title>第五次反“围剿”失败，中央主力红军被迫长征</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
-        <p>会议审议并通过了《中共中央关于建立社会主义市场经济体制若干问题的决定》。
-          《决定》指出：社会主义市场经济体制是同社会主义基本制度结合在一起的。建立
-          社会主义市场经济体制，就是要使市场在国家宏观调控下对资源配置起基础性作用。
-          为实现这个目标，必须坚持以公有制为主体、多种经济成分共同发展的方针，进一
-          步转换国有企业经营机制，建立适应市场经济要求，产权清晰、权责明确、政企分开
-          、管理科学的现代企业制度；建立全国统一开放的市场体系，实现城乡市场紧密结合
-          ，国内市场与国际市场相互衔接，促进资源的优化配置；转变政府管理经济的职能，
-          建立以间接手段为主的完善的宏观调控体系，保证国民经济的健康运行；建立以按劳
-          分配为主体，效率优先、兼顾公平的收入分配制度，鼓励一部分地区一部分人先富起
-          来，走共同富裕的道路。
-        </p>
+        <p>  10月10日，由于国民党重兵已推进到中央革命根据地腹地，中央红军被迫实行战略转移。当日晚，中共中央和中革军委机关从瑞金出发，前往集结地域。从17日起，中央红军主力第一、第三、第五、第八、第九军团及中央、军委机关和直属部队8.6万余人，陆续从集结地出发突围。随后，红二十五军，红四方面军，红二、红六军团（即后来的红二方面军）也相继撤出鄂豫皖、川陕、湘鄂川黔等根据地，进行战略转移。</p>
+        {/*<img src={sec16} alt=""/>*/}
         <img className={styles.img} src={sec16} alt=""/>
-      </div>
+     </div>
     </Antd.Typography.Text>
+
   </Antd.Typography>
 );

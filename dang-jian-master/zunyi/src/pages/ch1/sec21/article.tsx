@@ -1,18 +1,22 @@
 import * as Antd from "antd";
-import sec21_1 from "./sec21_1.png";
-import sec21_2 from "./sec21_2.png";
-import styles from "@/pages/ch1/textarea.css";
+import sec21 from "./sec21.png";
+import styles from "../textarea.css";
+
+// @ts-ignore
 // 文章组件
 export default () => (
+
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>申奥成功</Antd.Typography.Title>
+    <Antd.Typography.Title>西安事变</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
-        <p>申办奥运是中国人民长期以来的意愿，1991年2月，北京市向中国奥委会正式提出承办2000年奥运会的申请，随后在中国奥委会举行的全体会议上，一致同意了北京市的申请，并向国际奥委会和有关的国际体育组织通报了北京的申请。1991年3月，经国务院批准，北京2000年奥运会申办委员会正式成立，并于 1991年12月，派出北京奥申委代表团赴瑞士洛桑向国际奥委会主席递交了申请书。2001年7月13日，国际奥委会主席萨马兰奇先生在莫斯科宣布：北京成为2008年奥运会主办城市。2015年7月31日，国际奥委会主席托马斯·巴赫先生宣布：北京和张家口携手成为2022年冬奥会主办城市。
-        </p>
-        <img className={styles.img} src={sec21_1} alt=""/>
-        <img className={styles.img} src={sec21_2}alt=""/>
-      </div>
+      <p>
+        1936年12月12日，为挽救民族危亡、劝谏蒋介石改变“攘外必先安内”的既定国策、停止内战一致抗日，张学良、杨虎城毅然在临潼对蒋介石实行“兵谏”，扣留来陕督战的蒋介石，发动了震惊中外的“西安事变”，亦称双十二事变。提出抗日救国八项政治主张，逼蒋介石抗日。1936年12月25日，在中共中央和周恩来等人的努力下，蒋介石接受“停止内战、联共抗日”等六项主张，为“西安事变”的和平解决奠定了基础。
+      </p>
+        {/*<img src={sec19} alt=""/>*/}
+        <img className={styles.img} src={sec21} alt=""/>
+     </div>
     </Antd.Typography.Text>
+
   </Antd.Typography>
 );
