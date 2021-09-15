@@ -6,10 +6,10 @@ import styles from "../textarea.css";
 export default () => (
 
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>西渡黄河准备执行宁夏战役计划</Antd.Typography.Title>
+    <Antd.Typography.Title>中国共产党第九次全国代表大会举行</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
-        <p>10月下旬，为打通苏联援助的道路，红四方面军一部奉中革军委命令，西渡黄河准备执行宁夏战役计划。11月11日，渡河部队根据中央决定称西路军。深入河西走廊的西路军将士以不畏艰险、浴血奋战的英雄主义气概，在极端困难的条件下坚持战斗四个月，终因寡不敌众，于1937年3月惨烈失败。</p>
+        <p>中国共产党第九次全国代表大会于1969年4月1日至24日在北京举行。出席这次大会的代表共1512名，代表全党2200万党员。在九大代表的产生过程中，由于党组织瘫痪，根本无法进行正常的选举，大都是由革命委员会同各造反派组织的头头协商决定或上级组织指定的。这使林彪、江青等人得以乘机把他们帮派体系的许多人封为大会代表，有的是在确定为九大的代表以后，才赶办入党手续的，造成组织上的严重不纯。九大在思想上、政治上和组织上的指导方针都是错误的。</p>
         {/*<img src={sec19} alt=""/>*/}
         <img className={styles.img} src={sec20} alt=""/>
      </div>

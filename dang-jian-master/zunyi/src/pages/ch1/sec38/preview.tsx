@@ -2,10 +2,10 @@ import * as Antd from "antd";
 import sec38 from "./sec38.png"
 export default () => (
   <Antd.Typography>
-    <Antd.Typography.Title level={2}>江泽民提出“三个代表”的重要思想</Antd.Typography.Title>
+    <Antd.Typography.Title level={2}>中国共产党第七次全国代表大会在延安举行</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div style={{float:"right"}}>
-        <p>   江泽民在广东考察工作期间提出了“三个代表”的重要思想。他强调，要把中国的事情办好，关键取决于我们的党，取决于党的思想、作风、组织、纪律状况和战斗力、领导水平。</p>
+        <p>   出席大会的正式代表547人，候补代表208人，代表全国121万党员。毛泽东致开幕词，向大会提交《论联合政府》政治报告并作口头报告，朱德作《论解放区战场》军事报告，刘少奇作《关于修改党章的报告》，周恩来作《论统一战线》发言。</p>
       </div>
       <div style={{float:"left"}}>
         <img src={sec38} style={{width:"100px" ,height:"60px"}}/>

@@ -2,10 +2,10 @@ import * as Antd from "antd";
 import sec41 from "./sec41.png"
 export default () => (
   <Antd.Typography>
-    <Antd.Typography.Title level={2}>北京申办2008年奥运会成功</Antd.Typography.Title>
+    <Antd.Typography.Title level={2}>全面内战爆发</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div style={{float:"right"}}>
-        <p>   当北京申办2008年奥运成功的消息传来，聚集在中华世纪坛和自发来到天门广场的各界群众爆发出排山倒海般的欢呼。</p>
+        <p>  1946年6月26日，国民党在完成战争准备后，不顾全国民众的强烈反对，撕毁停战协定和政协决议，以围攻鄂豫边宣化店为中心的中原解放区为起点，相继在晋南、苏皖边、鲁西南、胶济路及其两侧、冀东、绥东、察南、热河、辽南等地，向解放区展开大规模的进攻，全面内战爆发。</p>
       </div>
       <div style={{float:"left"}}>
         <img src={sec41} style={{width:"100px" ,height:"60px"}}/>

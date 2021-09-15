@@ -2,10 +2,10 @@ import * as Antd from "antd";
 import sec17 from "./sec17.png"
 export default () => (
   <Antd.Typography>
-    <Antd.Typography.Title level={2}>中共中央政治局在遵义召开扩大会议</Antd.Typography.Title>
+    <Antd.Typography.Title level={2}>中共八届九中全会召开</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div style={{float:"right"}}>
-        <p>  中共中央政治局在遵义召开扩大会议。出席会议的政治局委员有毛泽东、张闻天、周恩来、朱德、陈云、博古，候补委员有王稼祥、刘少奇、邓发、何克全，参加会议的还有红军总部和各军团主要负责人刘伯承、李富春、林彪、聂荣臻、彭德怀、杨尚昆、李卓然以及中央秘书长邓小平。</p>
+        <p>  八届九中全会于1961年1月14日至18日在北京召开。出席会议的有中央委员83人，候补中央委员87人，另有中央有关部门和省、市、自治区党委的负责同志23人列席了会议。</p>
       </div>
       <div style={{float:"left"}}>
         <img src={sec17} style={{width:"100px" ,height:"60px"}}/>

@@ -242,182 +242,182 @@ export default [
     timelineLabel:"平型关大捷"
   },
   {
-    date: d(1995, 5, 6),
+    date: d(1938,5,26),
     location: l(116, 40),
     preview: <sec26.preview/>,
     article: <sec26.article />,
-    timelineLabel:"提出科教兴国的战略"
+    timelineLabel:"毛泽东发表《论持久战》"
   },
   {
-    date: d(1996, 4, 26),
-    location: l(121, 31),
+    date: d(1938,9,29),
+    location: l(118,35),
     preview: <sec27.preview/>,
     article: <sec27.article />,
-    timelineLabel:"与周边国家在上海共同签署关于在边境地区加强军事领域信任的协定"
+    timelineLabel:"中共扩大的六届六中全会在延安召开"
   },
   {
-    date: d(1996, 7, 18),
+    date: d(1938, 10, 1),
     location: l(116, 40),
     preview: <sec28.preview/>,
     article: <sec28.article />,
-    timelineLabel:"中国政府对日本右翼分子表示“严重关切”"
+    timelineLabel:"抗日战争由战略防御转入战略相持阶段"
   },
   {
-    date: d(1996, 9, 26),
-    location: l(116, 40),
+    date: d(1939, 1, 16),
+    location: l(106,30),
     preview: <sec29.preview/>,
     article: <sec29.article />,
-    timelineLabel:"江泽民视察人民日报社并发表重要讲话"
+    timelineLabel:"中共中央南方局在重庆成立"
   },
   {
-    date: d(1997,7 ,1 ),
+    date: d(1939,1,26),
     location: l(114, 22),
     preview: <sec30.preview/>,
     article: <sec30.article />,
-    timelineLabel:"香港回归"
+    timelineLabel:"生产动员大会召开"
   },
   {
-    date: d(1997,9 , 12),
-    location: l(116.15, 40),
+    date: d(1939,2,2),
+    location: l(118.2, 35),
     preview: <sec31.preview/>,
     article: <sec31.article />,
-    timelineLabel:"中共第十五次全国代表大会"
+    timelineLabel:"《新民主主义论》发表"
   },
   {
-    date: d(1998, 7, 1),
-    location: l(125, 44),
+    date: d(1940,1,10),
+    location: l(118.2,35.4),
     preview: <sec32.preview/>,
     article: <sec32.article />,
-    timelineLabel:"抗洪救灾"
+    timelineLabel:"中国战场成为世界反法西斯战争的东方主战场"
   },
 
   {
-    date: d(1999,5,8),
-    location: l(20.5,44.5),
+    date: d(1940,8,20),
+    location: l(104,35),
     preview: <sec33.preview/>,
     article: <sec33.article />,
-    timelineLabel:"北约袭击中国驻南斯拉夫大使馆"
+    timelineLabel:"百团大战"
   },
   {
-    date: d(1999,10,1),
-    location: l(116.2,39.6),
+    date: d(1941,11,17),
+    location: l(120.4,32.38),
     preview: <sec34.preview/>,
     article: <sec34.article />,
-    timelineLabel:"庆祝中华人民共和国成立50周年大会"
+    timelineLabel:"华中新四军八路军总指挥部在海安成立"
   },
 
   {
-    date: d(1999,11,20),
-    location: l(98.2,39.5),
+    date: d(1941,1,10),
+    location: l(119.3,30.4),
     preview: <sec35.preview/>,
     article: <sec35.article />,
-    timelineLabel:"第一艘载人航天试验飞船"
+    timelineLabel:"皖南事变"
   },
 
   {
-    date: d(1999,12,20),
+    date: d(1944,5,11),
     location: l(113.3,22.2),
     preview: <sec36.preview/>,
     article: <sec36.article />,
-    timelineLabel:"澳门回归"
+    timelineLabel:"河南地区抗日根据地建立"
   },
   {
-    date: d(2000,1,24),
-    location: l(116.2,39.6),
+    date: d(1944,5,21),
+    location: l(118.2,35.6),
     preview: <sec37.preview/>,
     article: <sec37.article />,
-    timelineLabel:"西部地区开发会议在京举行"
+    timelineLabel:"中共扩大的六届七中全会在延安召开"
   },
   {
-    date: d(2000,2,20),
-    location: l(109.4,20.2),
+    date: d(1945,4,23),
+    location: l(118.2,35.6),
     preview: <sec38.preview/>,
     article: <sec38.article />,
-    timelineLabel:"江泽民提出“三个代表”的重要思想"
+    timelineLabel:"中国共产党第七次全国代表大会在延安举行"
   },
   {
-    date: d(2001,6,15),
-    location: l(121.4,31.4),
+    date: d(1945,8,28),
+    location: l(106.5,29.4),
     preview: <sec39.preview/>,
     article: <sec39.article />,
-    timelineLabel:"“上海合作组织”成员国元首会议"
+    timelineLabel:"重庆谈判"
   },
   {
-    date: d(2001,7,1),
-    location: l(116.2,39.6),
+    date: d(1945,9,2),
+    location: l(139,35.42),
     preview: <sec40.preview/>,
     article: <sec40.article />,
-    timelineLabel:"庆祝中国共产党成立八十周年大会"
+    timelineLabel:"日本代表在投降书上签字"
   },
   {
-    date: d(2001,7,13),
+    date: d(1946,6,26),
     location: l(116.3,39.6),
     preview: <sec41.preview/>,
     article: <sec41.article />,
-    timelineLabel:"北京申办2008年奥运会成功"
+    timelineLabel:"全面内战爆发"
   },
   {
-    date: d(2001,7,19),
-    location: l(91.2,29.5),
+    date: d(1947,3,29),
+    location: l(119.5,37.5),
     preview: <sec42.preview/>,
     article: <sec42.article />,
-    timelineLabel:"庆祝西藏和平解放50周年大会"
+    timelineLabel:"中央政治局会议在陕北清涧枣林沟召开"
   },
   {
-    date: d(2001,10,21),
-    location: l(121.3,31.3),
+    date: d(1946,5,20),
+    location: l(118.4,32,4),
     preview: <sec43.preview/>,
     article: <sec43.article />,
-    timelineLabel:"亚太经合组织第九次领导人非正式会议"
+    timelineLabel:"学生运动爆发"
   },
   {
-    date: d(2001,11,10),
-    location: l(51.4,25.3),
+    date: d(1946,7,17),
+    location: l(114,38.2),
     preview: <sec44.preview/>,
     article: <sec44.article />,
-    timelineLabel:"中国正式成为WTO成员"
+    timelineLabel:"全国土地会议召开"
   },
   {
-    date: d(2002,11,8),
+    date: d(1948,9,12),
     location: l(116.2,39.6),
     preview: <sec45.preview/>,
     article: <sec45.article />,
-    timelineLabel:"中国共产党第十六次全国代表大会开幕"
+    timelineLabel:"东北全境解放"
   },
   {
-    date: d(2003,10,15),
-    location: l(98.4,39.5),
+    date: d(1948,11,6),
+    location: l(118.2,38.6),
     preview: <sec46.preview/>,
     article: <sec46.article />,
-    timelineLabel:"中国首次载人航天飞船飞行成功"
+    timelineLabel:"淮海战役"
   },
   {
-    date: d(2003,4,14),
-    location: l(109.4,20.2),
+    date: d(1948,11,29),
+    location: l(116.2,39.5),
     preview: <sec47.preview/>,
     article: <sec47.article />,
-    timelineLabel:"非典事件"
+    timelineLabel:"平津战役"
   },
   {
-    date: d(2005,4,29),
-    location: l(116.2,39.5),
+    date: d(1949,3,5),
+    location: l(116.2,38.5),
     preview: <sec48.preview/>,
     article: <sec48.article />,
-    timelineLabel:"连战宋楚瑜郁慕明先后访问大陆"
+    timelineLabel:"中共七届二中全会在西柏坡召开"
   },
   {
-    date: d(2006,1,12),
+    date: d(1949,4,20),
     location: l(116.2,39.6),
     preview: <sec49.preview/>,
     article: <sec49.article />,
-    timelineLabel:"中国政府首次正式发表《中国对非洲政策文件》"
+    timelineLabel:"渡江战役"
   },
   {
-    date: d(2006,7,1),
-    location: l(91.2,29.5),
+    date: d(1949,9,21),
+    location: l(118.2,35.6),
     preview: <sec50.preview/>,
     article: <sec50.article />,
-    timelineLabel:"青藏铁路全线建成通车"
+    timelineLabel:"中国人民政治协商会议第一届全体会议在北平举行"
   },
 
 ] as Event[];

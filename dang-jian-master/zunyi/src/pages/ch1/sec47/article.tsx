@@ -7,7 +7,7 @@ import styles from "../textarea.css";
 export default () => (
 
   <Antd.Typography className={styles.textarea}>
-    <Antd.Typography.Title>非典事件</Antd.Typography.Title>
+    <Antd.Typography.Title>平津战役</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div>
       <p>

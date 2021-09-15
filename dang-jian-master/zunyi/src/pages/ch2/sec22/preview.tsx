@@ -2,10 +2,10 @@ import * as Antd from "antd";
 import sec22 from "./sec22.png"
 export default () => (
   <Antd.Typography>
-    <Antd.Typography.Title level={2}>卢沟桥事变</Antd.Typography.Title>
+    <Antd.Typography.Title level={2}>美国总统尼克松访问中国</Antd.Typography.Title>
     <Antd.Typography.Text>
       <div style={{float:"right"}}>
-        <p>1937年7月7日，日本帝国主义为发动全面侵华战争在卢沟桥制造的武装挑衅事件，亦称“七七事变”。九一八事变后，日本帝国主义侵占中国东北，并逐步把侵华势力扩张到平津附近。为加快对中国的侵略，1936年日本军部制定了1937年大规模侵略中国的作战计划。</p>
+        <p>文革后期，中共开始考虑缓和与西方的关系，中美之间展开秘密谈判。1972年2月21日，美国总统尼克松抵达北京，受到周恩来总理等中国领导人的欢迎。</p>
       </div>
       <div style={{float:"left"}}>
         <img src={sec22} style={{width:"100px" ,height:"60px"}}/>
