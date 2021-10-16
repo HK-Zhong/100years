@@ -108,9 +108,9 @@ export default class extends React.Component {
         >
           {i.date.getFullYear() +
             "-" +
-            i.date.getMonth() +
+            (i.date.getMonth() + 1) +
             "-" +
-            i.date.getDay()}
+            i.date.getDate()}
           <br />
           <Antd.Button type="text" onClick={popInfoWindow}>
             {i.timelineLabel}
